@@ -1,0 +1,96 @@
+{
+  "tweets": [
+    {
+      "id": 1,
+      "userId": 1,
+      "time": "2hrs",
+      "content": "田舎冒険日記。",
+      "retweets": 3000,
+      "likes": 1900,
+      "comments": 12
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "time": "17h",
+      "content": "CSS TIPElectric light bulbMemo conic-gradient + background-clip: text = A pretty cool text effect RainbowUnicorn faceSparkles CodePen: https://codepen.io/pokecoder/pen/gOXrxVY",
+      "retweets": 2000,
+      "likes": 900,
+      "comments": 5
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "time": "16h",
+      "content": "My first tweet",
+      "retweets": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "time": "10h",
+      "content": "My second tweet",
+      "retweets": 0,
+      "likes": 0,
+      "comments": 0
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "time": "10h",
+      "content": "My third tweet",
+      "retweets": 0,
+      "likes": 0,
+      "comments": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "avatar": "https://pbs.twimg.com/profile_images/1291840695133560832/I6-MlHml_400x400.jpg",
+      "displayName": "Akine Coco",
+      "username": "akinecoco987"
+    },
+    {
+      "id": 2,
+      "avatar": "https://pbs.twimg.com/profile_images/1468843136852107266/X7VdenZb_400x400.jpg",
+      "displayName": "Ale",
+      "username": "pokecoder"
+    },
+    {
+      "id": 3,
+      "avatar": "https://pbs.twimg.com/profile_images/1336991876386328576/2vYECXrb_400x400.jpg",
+      "displayName": "Nicolas Marcora",
+      "username": "NMarcora",
+      "tweets": []
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "content": "Some more info, this is a thead!",
+      "userId": 1,
+      "tweetId": 1
+    },
+    {
+      "id": 2,
+      "content": "Comment two!",
+      "userId": 2,
+      "tweetId": 1
+    },
+    {
+      "id": 3,
+      "content": "Comment three!",
+      "userId": 3,
+      "tweetId": 1
+    },
+    {
+      "id": 4,
+      "content": "Comment four!",
+      "userId": 1,
+      "tweetId": 2
+    }
+  ]
+}
